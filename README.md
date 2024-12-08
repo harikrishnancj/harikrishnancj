@@ -1,7 +1,7 @@
-<h4 align="left">Hi 👋! My name is Harikrishnan C J ......</h4>
-
+<h2 align="left">Hi 👋! I'm Harikrishnan C J</h2>
+<h4 align="left">
+I'm a **B.Tech in Computer Science and Engineering** graduate passionate about coding and exploring new technologies. I love learning, adapting, and tackling challenges to grow professionally.</h4>
 ###
-
 <img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWw3ZDVoc2I4NTV3aG5rOTRqeDhjZXdkYndnZGxtN2YxbWZpdDIybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rph6JD8yWZ7voryNi7/giphy.gif"  />
 
 ###
@@ -26,6 +26,7 @@
   <img src="https://cdn.simpleicons.org/adobepremierepro/9999FF" height="30" alt="adobepremierepro logo"  />
 </div>
 
+
 ###
 
 <div align="left">
@@ -42,6 +43,13 @@
 <br clear="both">
 
 ![Snake animation](https://raw.githubusercontent.com/harikrishnancj/Harikrishnancj/output/snake.svg)
+<div>
+
+  <h3 align="mid">
+I’m driven by curiosity and a passion for contributing to projects, whether developing apps, analyzing data, or creating algorithms.</h3>
+
+
+</div>
 
 
 ###
