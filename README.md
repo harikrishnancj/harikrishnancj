@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋! I'm Harikrishnan C J</h1>
 <h3 align="left">
-I'm a **B.Tech in Computer Science and Engineering** graduate passionate about coding and exploring new technologies. I love learning, adapting, and tackling challenges to grow professionally.</h3>
+I'm a B.Tech in Computer Science and Engineering graduate passionate about coding and exploring new technologies. I love learning, adapting, and tackling challenges to grow professionally.</h3>
 ###
 <img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWw3ZDVoc2I4NTV3aG5rOTRqeDhjZXdkYndnZGxtN2YxbWZpdDIybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rph6JD8yWZ7voryNi7/giphy.gif"  />
 
