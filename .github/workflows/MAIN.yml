@@ -29,23 +29,3 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          name: Update Medium Posts
-
-on:
-  schedule:
-    - cron: "0 * * * *"  # Runs hourly
-  workflow_dispatch:  # Allows manual runs
-
-jobs:
-  update-readme:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v2
-
-      - name: Update Medium Posts
-        uses: kahlaoui/github-action-update-medium-posts@v1.0
-        with:
-          medium_username: your-medium-username
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-
