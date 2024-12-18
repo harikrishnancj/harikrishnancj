@@ -2,7 +2,7 @@
 <h4 align="left">
 I'm a B.Tech in Computer Science and Engineering graduate passionate about coding and exploring new technologies. I love learning, adapting, and tackling challenges to grow professionally.</h4>
 
-<img align="right" height="150" src="(https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExanNhYWQyeHRsZWlqOTU0cmd5ZzVpYWYwenQzZmdhOTBzY3Y2Y3dmMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fpIEH1tnh5EJyLduuJ/giphy.gif)"  />
+<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExanNhYWQyeHRsZWlqOTU0cmd5ZzVpYWYwenQzZmdhOTBzY3Y2Y3dmMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fpIEH1tnh5EJyLduuJ/giphy.gif" />
 
 
 <div align="left">
