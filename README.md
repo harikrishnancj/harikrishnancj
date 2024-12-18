@@ -2,8 +2,7 @@
 <h4 align="left">
 I'm a B.Tech in Computer Science and Engineering graduate passionate about coding and exploring new technologies. I love learning, adapting, and tackling challenges to grow professionally.</h4>
 
-<img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-
+<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHkzaGx4bnQ0aHg3NW56d3BnbHRpeDB4aGh1OTA0Z2tncTBkYmcxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mChiNhFgpudAQ3ppsL/giphy.gif"  />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
